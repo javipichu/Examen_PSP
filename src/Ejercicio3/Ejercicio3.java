@@ -10,7 +10,7 @@ import java.util.Random;
 
 /**
  *
- * @author dam2
+ * @author JAVIER ALVAREZ OTERO 6462
  */
 public class Ejercicio3 extends Thread {
     
