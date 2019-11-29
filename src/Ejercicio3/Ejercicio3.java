@@ -10,7 +10,7 @@ import java.util.Random;
 
 /**
  *
- * @author JAVIER ALVAREZ OTERO 6462
+ * @author JAVIER ALVAREZ OTERO 
  */
 public class Ejercicio3 extends Thread {
     
@@ -60,7 +60,7 @@ public class Ejercicio3 extends Thread {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            //El método yield da apaso a otro hilo al ser llamado
+           
             yield();
         }
 
